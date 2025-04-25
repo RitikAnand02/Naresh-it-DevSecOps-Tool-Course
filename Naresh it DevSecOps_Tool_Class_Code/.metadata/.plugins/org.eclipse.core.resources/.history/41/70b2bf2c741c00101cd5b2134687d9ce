@@ -1,0 +1,9 @@
+package com.nt.main;
+
+import com.nt.service.Arthemetic;
+
+public class App {
+    public static void main(String[] args) {
+       Arthemetic
+    }
+}

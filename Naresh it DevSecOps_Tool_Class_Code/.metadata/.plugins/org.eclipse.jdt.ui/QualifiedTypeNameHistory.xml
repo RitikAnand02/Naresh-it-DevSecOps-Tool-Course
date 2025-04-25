@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<qualifiedTypeNameHistroy>
+    <fullyQualifiedTypeName name="com.nt.main.Test"/>
+    <fullyQualifiedTypeName name="com.nt.main.TestTest"/>
+    <fullyQualifiedTypeName name="org.junit.jupiter.api.Test"/>
+    <fullyQualifiedTypeName name="com.nt.service.Arthemetic"/>
+    <fullyQualifiedTypeName name="com.nt.main.App"/>
+</qualifiedTypeNameHistroy>

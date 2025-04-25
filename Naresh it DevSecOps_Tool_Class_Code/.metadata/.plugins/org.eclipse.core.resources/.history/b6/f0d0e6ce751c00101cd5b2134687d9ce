@@ -1,0 +1,21 @@
+package com.nt.main;
+
+import static org.junit.jupiter.api.Assertions.assertTrue;
+
+import org.junit.jupiter.api.Test;
+
+import com.nt.service.Arthemetic;
+
+public class TestTest {
+    @Test
+    public void testSumWithPositive() {
+        int x = 10;
+        int y = 20;
+        int expected = 30;
+        App app = new App();
+        int actual = app.sum(x, y)
+        
+        
+        
+    }
+}

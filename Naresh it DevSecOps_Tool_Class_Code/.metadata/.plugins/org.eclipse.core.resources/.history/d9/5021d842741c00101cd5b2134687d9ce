@@ -1,0 +1,11 @@
+package com.nt.main;
+
+import com.nt.service.Arthemetic;
+
+public class App {
+    public static void main(String[] args) {
+       Arthemetic ar = new Arthemetic();
+       int result = ar.sum(100, 200);
+       System.out.println(reult);
+    }
+}
