@@ -1,13 +1,10 @@
-INDEX VERSION 1.134+D:\Naresh it DevSecOps Tool course\Naresh it DevSecOps_Tool_Class_Code\.metadata\.plugins\org.eclipse.jdt.core
+INDEX VERSION 1.134+D:\Naresh it DevSecOps Tool Course\Naresh it DevSecOps_Tool_Class_Code\.metadata\.plugins\org.eclipse.jdt.core
 3548263637.index
 2582967422.index
 462014448.index
 4163616448.index
-1239610534.index
 2030881956.index
-3737266189.index
-3111635693.index
-1810971336.index
+1239610534.index
 3156635357.index
 3370398456.index
 3291212086.index
@@ -15,8 +12,6 @@ INDEX VERSION 1.134+D:\Naresh it DevSecOps Tool course\Naresh it DevSecOps_Tool_
 2030730723.index
 1370727694.index
 284804100.index
-1464245383.index
-97612082.index
 2039220543.index
 2541905939.index
 2252385055.index
