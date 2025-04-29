@@ -2,6 +2,7 @@
 <section name="Workbench">
 	<section name="MavenProjectWizardLocationPage">
 		<list key="location">
+			<item value="D:\Naresh it DevSecOps Tool Course\Naresh it DevSecOps_Tool_Class_Code\Maven_Proj04_Webapp"/>
 			<item value="D:\Naresh it DevSecOps Tool course\Naresh it DevSecOps_Tool_Class_Code\Maven_Proj01\src\main\java\com\nt\main\App.java"/>
 		</list>
 		<list key="projectNameTemplate">
@@ -26,13 +27,14 @@
 	</section>
 	<section name="Maven2ProjectWizardArchifactPage">
 		<list key="package">
-			<item value="com.nt.servelet"/>
 			<item value="com.nt.main"/>
+			<item value="com.nt.servelet"/>
 		</list>
 		<list key="groupId">
 			<item value="com.nt"/>
 		</list>
 		<list key="artifactId">
+			<item value="Git_Proj01"/>
 			<item value="Maven_Proj04_Webapp"/>
 			<item value="Maven_Web_Proj04"/>
 			<item value="Maven_Proj03"/>
