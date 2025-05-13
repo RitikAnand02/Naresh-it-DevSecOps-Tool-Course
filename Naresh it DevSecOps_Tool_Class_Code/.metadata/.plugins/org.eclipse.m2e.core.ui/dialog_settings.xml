@@ -27,6 +27,7 @@
 	</section>
 	<section name="Maven2ProjectWizardArchifactPage">
 		<list key="package">
+			<item value="com.nt.SonarQubeProj01"/>
 			<item value="com.nt.main"/>
 			<item value="com.nt.servelet"/>
 		</list>
@@ -34,6 +35,7 @@
 			<item value="com.nt"/>
 		</list>
 		<list key="artifactId">
+			<item value="SonarQubeProj01"/>
 			<item value="Git_Proj01"/>
 			<item value="Maven_Proj04_Webapp"/>
 			<item value="Maven_Web_Proj04"/>

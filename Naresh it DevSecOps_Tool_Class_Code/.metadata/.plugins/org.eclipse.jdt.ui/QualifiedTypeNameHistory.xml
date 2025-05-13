@@ -5,4 +5,6 @@
     <fullyQualifiedTypeName name="org.junit.jupiter.api.Test"/>
     <fullyQualifiedTypeName name="com.nt.service.Arthemetic"/>
     <fullyQualifiedTypeName name="com.nt.main.App"/>
+    <fullyQualifiedTypeName name="java.lang.System.Logger"/>
+    <fullyQualifiedTypeName name="java.lang.System.Logger.Level"/>
 </qualifiedTypeNameHistroy>
