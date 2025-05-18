@@ -1,0 +1,9 @@
+[2025-05-13 20:25:35] [main] DEBUG com.nt.service.SelectTest - properties file is loaded
+[2025-05-13 20:25:35] [main] INFO  com.nt.service.SelectTest - Properties file content is loaded to Properties class obj
+[2025-05-13 20:25:35] [main] DEBUG com.nt.service.SelectTest - start of main(-) method , application
+[2025-05-13 20:25:36] [main] INFO  com.nt.service.SelectTest -  Connection with Db s/w is established
+[2025-05-13 20:25:36] [main] DEBUG com.nt.service.SelectTest -  PreparedStatement obj is created
+[2025-05-13 20:25:36] [main] DEBUG com.nt.service.SelectTest -  ResultSet obj is created
+[2025-05-13 20:25:36] [main] WARN  com.nt.service.SelectTest -  Its  better to process the ResultSet data directly with getXxx() methods , not as String values
+[2025-05-13 20:25:36] [main] DEBUG com.nt.service.SelectTest - ResultSEt obj is processed
+[2025-05-13 20:25:36] [main] DEBUG com.nt.service.SelectTest - end of main(-) method 

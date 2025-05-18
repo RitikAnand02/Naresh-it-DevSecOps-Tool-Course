@@ -1,0 +1,21 @@
+DEBUG - main  - com.nt.service.SelectTest  - 2025-05-07 20:14:12,118  - start of main(-) method , application -0  - main  
+INFO - main  - com.nt.service.SelectTest  - 2025-05-07 20:14:13,543  -  Connection with Db s/w is established -1425  - main  
+DEBUG - main  - com.nt.service.SelectTest  - 2025-05-07 20:14:13,674  -  PreparedStatement obj is created -1556  - main  
+DEBUG - main  - com.nt.service.SelectTest  - 2025-05-07 20:14:13,845  -  ResultSet obj is created -1727  - main  
+WARN - main  - com.nt.service.SelectTest  - 2025-05-07 20:14:13,867  -  Its  better to process the ResultSet data directly with getXxx() methods , not as String values -1749  - main  
+DEBUG - main  - com.nt.service.SelectTest  - 2025-05-07 20:14:13,868  - ResultSEt obj is processed -1750  - main  
+DEBUG - main  - com.nt.service.SelectTest  - 2025-05-07 20:14:13,890  - end of main(-) method  -1772  - main  
+DEBUG - main  - com.nt.service.SelectTest  - 2025-05-07 20:14:35,318  - start of main(-) method , application -0  - main  
+INFO - main  - com.nt.service.SelectTest  - 2025-05-07 20:14:36,315  -  Connection with Db s/w is established -997  - main  
+DEBUG - main  - com.nt.service.SelectTest  - 2025-05-07 20:14:36,413  -  PreparedStatement obj is created -1095  - main  
+DEBUG - main  - com.nt.service.SelectTest  - 2025-05-07 20:14:36,540  -  ResultSet obj is created -1222  - main  
+WARN - main  - com.nt.service.SelectTest  - 2025-05-07 20:14:36,559  -  Its  better to process the ResultSet data directly with getXxx() methods , not as String values -1241  - main  
+DEBUG - main  - com.nt.service.SelectTest  - 2025-05-07 20:14:36,559  - ResultSEt obj is processed -1241  - main  
+DEBUG - main  - com.nt.service.SelectTest  - 2025-05-07 20:14:36,563  - end of main(-) method  -1245  - main  
+DEBUG - main  - com.nt.service.SelectTest  - 2025-05-07 20:14:56,436  - start of main(-) method , application -0  - main  
+INFO - main  - com.nt.service.SelectTest  - 2025-05-07 20:14:57,072  -  Connection with Db s/w is established -636  - main  
+DEBUG - main  - com.nt.service.SelectTest  - 2025-05-07 20:14:57,130  -  PreparedStatement obj is created -694  - main  
+DEBUG - main  - com.nt.service.SelectTest  - 2025-05-07 20:14:57,219  -  ResultSet obj is created -783  - main  
+WARN - main  - com.nt.service.SelectTest  - 2025-05-07 20:14:57,233  -  Its  better to process the ResultSet data directly with getXxx() methods , not as String values -797  - main  
+DEBUG - main  - com.nt.service.SelectTest  - 2025-05-07 20:14:57,233  - ResultSEt obj is processed -797  - main  
+DEBUG - main  - com.nt.service.SelectTest  - 2025-05-07 20:14:57,236  - end of main(-) method  -800  - main  
