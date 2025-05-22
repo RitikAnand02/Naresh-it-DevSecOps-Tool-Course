@@ -13,8 +13,9 @@ import jakarta.servlet.http.HttpServletResponse;
 @WebServlet("/seasonurl")
 public class SeasonFinderServlet  extends  HttpServlet {
 	
-	 @Override
-	public void doGet(HttpServletRequest req, HttpServletResponse res) throws ServletException, IOException {
+	
+	@Override
+    public void doGet(HttpServletRequest req, HttpServletResponse res) throws ServletException, IOException {
 	    //get  PrintWriter
 		 PrintWriter pw=res.getWriter();
 		 // set response content  type

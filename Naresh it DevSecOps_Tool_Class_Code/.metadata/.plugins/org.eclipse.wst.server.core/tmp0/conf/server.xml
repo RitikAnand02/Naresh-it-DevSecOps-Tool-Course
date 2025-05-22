@@ -142,7 +142,7 @@
              Note: The pattern used is equivalent to using pattern="common" -->
         <Valve className="org.apache.catalina.valves.AccessLogValve" directory="logs" pattern="%h %l %u %t &quot;%r&quot; %s %b" prefix="localhost_access_log" suffix=".txt"/>
 
-      <Context docBase="D:\Naresh it DevSecOps Tool course\Naresh it DevSecOps_Tool_Class_Code\.metadata\.plugins\org.eclipse.wst.server.core\tmp0\wtpwebapps\ROOT" path="" reloadable="false"/><Context docBase="D:\Naresh it DevSecOps Tool course\Naresh it DevSecOps_Tool_Class_Code\.metadata\.plugins\org.eclipse.wst.server.core\tmp0\wtpwebapps\Maven_Proj04_Webapp" path="/Maven_Proj04_Webapp" reloadable="true" source="org.eclipse.jst.jee.server:Maven_Proj04_Webapp"/></Host>
+      <Context docBase="D:\Naresh it DevSecOps Tool Course\Naresh it DevSecOps_Tool_Class_Code\.metadata\.plugins\org.eclipse.wst.server.core\tmp0\wtpwebapps\ROOT" path="" reloadable="false"/><Context docBase="D:\Naresh it DevSecOps Tool Course\Naresh it DevSecOps_Tool_Class_Code\.metadata\.plugins\org.eclipse.wst.server.core\tmp0\wtpwebapps\Jenkins_Webapp" path="/Jenkins_Webapp" reloadable="true" source="org.eclipse.jst.jee.server:Jenkins_Webapp"/></Host>
     </Engine>
   </Service>
 </Server>
