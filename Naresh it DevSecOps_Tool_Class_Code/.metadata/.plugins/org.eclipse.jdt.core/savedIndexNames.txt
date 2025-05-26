@@ -42,8 +42,8 @@ INDEX VERSION 1.134+D:\Naresh it DevSecOps Tool Course\Naresh it DevSecOps_Tool_
 184736104.index
 3883918361.index
 2460728537.index
-2601107011.index
 2030730723.index
+2601107011.index
 1810971336.index
 1370727694.index
 2030881956.index
@@ -58,7 +58,6 @@ INDEX VERSION 1.134+D:\Naresh it DevSecOps Tool Course\Naresh it DevSecOps_Tool_
 3548263637.index
 2581534718.index
 4163616448.index
-993768649.index
 3563061510.index
 3370398456.index
 284804100.index
